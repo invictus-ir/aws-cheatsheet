@@ -2,7 +2,7 @@
 A cheatsheet containing AWS CloudTrail events that can be used for Incident Response purposes or Detection Engineering. 
 If you see room for improvements please let us know via an issue or create a pull request. 
 
-Certainly! Here's the provided CSV data converted into a Markdown table:
+
 
 | Initial Access            | Execution               | Persistence               | Privilege Escalation     | Defense Evasion          | Credential Access       | Discovery             | Lateral Movement        | Exfiltration            | Impact                   |
 |---------------------------|-------------------------|----------------------------|--------------------------|--------------------------|-------------------------|-----------------------|-------------------------|-------------------------|--------------------------|
@@ -22,4 +22,3 @@ Certainly! Here's the provided CSV data converted into a Markdown table:
 |                           |                         | ChangePassword             | DisassociateFromMasterAccount | GetAccountAuthorizationDetails |                   |                       |                         |                         |                           |
 |                           |                         |                            | DisassociateMembers      | StopMonitoringMembers     |                       |                       |                         |                         |                           |
 
-Please note that the table structure assumes an equal number of columns for each row. If your actual CSV data differs in structure, please let me know, and I'll adjust the table accordingly.
