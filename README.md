@@ -6,7 +6,7 @@ If you see room for improvements please let us know via an issue or create a pul
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ConsoleLogin | StartInstance | CreateAccessKey | CreateGroup | StopLogging | GetSecretValue | ListUsers | AssumeRole | CreateSnapShot | PutBucketVersioning |
 | PasswordRecoveryRequested | StartInstances | CreateUser | CreateRole | DeleteTrail | GetPasswordData | ListRoles | SwitchRole | ModifySnapshotAttributes  | RunInstances |
-|  | Invoke | CreateNetworkAclEntry | UpdateAccessKey | UpdateTrail | RequestCertificate | ListIdentities |  | ModifyImageAttribute | DeleteAccountPublicAccessBlock  |
+| GetSigninToken | Invoke | CreateNetworkAclEntry | UpdateAccessKey | UpdateTrail | RequestCertificate | ListIdentities |  | ModifyImageAttribute | DeleteAccountPublicAccessBlock  |
 |  | SendCommand | CreateRoute | PutGroupPolicy | PutEventSelectors | UpdateAssumeRolePolicy | ListAccessKeys |  | SharedSnapshotCopyInitiated |  |
 |  |  | CreateLoginProfile | PutRolePolicy | DeleteFlowLogs |  | ListServiceQuotas |  | SharedSnapshotVolumeCreated |  |
 |  |  | AuthorizeSecurityGroupEgress | PutUserPolicy | DeleteDetector |  | ListInstanceProfiles |  | ModifyDBSnapshotAttribute |  |
@@ -18,5 +18,5 @@ If you see room for improvements please let us know via an issue or create a pul
 |  |  | AuthorizeDBSecurityGroupIngress |  | DeleteAccessKey |  | GetBucketAcl |  |  |  |
 |  |  | CreateDBSecurityGroup |  | LeaveOrganization |  | GetBucketVersioning |  |  |  |
 |  |  | ChangePassword |  | DisassociateFromMasterAccount |  | GetAccountAuthorizationDetails |  |  |  |
-|  |  |  |  | DisassociateMembers |  |  |  |  |  |
+|  |  | SetDefaultPolicyVersion |  | DisassociateMembers |  |  |  |  |  |
 |  |  |  |  | StopMonitoringMembers |  |  |  |  |  |
